@@ -56,5 +56,4 @@ Selected models:
 
 ## The Results 
    Based on performance result the selected models for deployment are  KNN and RNN
-![image](https://user-images.githubusercontent.com/91053938/177035857-c11fdced-40f1-4855-bd8d-3d15e4c6c055.png)
-
+![image](https://user-images.githubusercontent.com/91053938/177035863-ec7ccba7-46c3-426f-97e5-727fd080b3d9.png)
