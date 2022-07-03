@@ -19,7 +19,7 @@ On there hand the smoker dose not showing significant positive result in the tar
 3.	creating the module which include chosen the classifiers algorism, model evolution 
 4.	comparing the accuracy of different algorisms such as k-nearest neighbors (KNN), Gaussian Naive Bayes (GNB), Logistic Regression (LR) since it is binary classifier , Decision Tree (DT)
 
-References 
+## References 
 
 1. Choudhury, A., & Won, D. (2018). Classification of Cervical Cancer Dataset Abstract.
 2. [hyperparameters for classification ML (uesd in the code )](https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/) 
