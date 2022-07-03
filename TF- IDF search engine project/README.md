@@ -1,4 +1,4 @@
-TF- IDF search engine project
+# TF- IDF search engine project
 
 ## brief description
 This project aims to create a search engine that use tf-idf based document representation to search and create similarity matrix between the user query and selected dataset, the dataset I used can be found [here](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html). 
