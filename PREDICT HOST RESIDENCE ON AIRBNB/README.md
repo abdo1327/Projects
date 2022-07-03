@@ -52,8 +52,7 @@ Selected models:
 4. Prediction
 
 ![image](https://user-images.githubusercontent.com/91053938/177035769-d4025e01-f176-4b07-a44e-b550d8331738.png)
-![image](https://user-images.githubusercontent.com/91053938/177035771-b666d22c-d030-4f68-a8e9-4d8441bb4ccf.png)
-
+![image](https://user-images.githubusercontent.com/91053938/177035790-bc4d94b7-7e8b-482f-a3a1-aeaccc16e053.png)
 
 
 
