@@ -6,7 +6,7 @@ The project aims to:
 2. evaluate, document and report the performance of the model/s.
 ## Project Approach
 The workflow for the project can be summarized as the following :
--create different classifications models.
--Evaluate the models' performance.
--Compare the models' performance for different aspect.
+- Create different classifications models.
+- Evaluate the models' performance.
+- Compare the models' performance for different aspect.
 
