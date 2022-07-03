@@ -52,8 +52,9 @@ Selected models:
 4. Prediction
 
 ![image](https://user-images.githubusercontent.com/91053938/177035769-d4025e01-f176-4b07-a44e-b550d8331738.png)
-![image](https://user-images.githubusercontent.com/91053938/177035790-bc4d94b7-7e8b-482f-a3a1-aeaccc16e053.png)
 
 ## The Results 
    Based on performance result the selected models for deployment are  KNN and RNN
 ![image](https://user-images.githubusercontent.com/91053938/177035863-ec7ccba7-46c3-426f-97e5-727fd080b3d9.png)
+
+# The only code uploded here is the main code with a brief explanation for the used functions and there poupous which can be found in the documentation file. 
