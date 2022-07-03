@@ -1,0 +1,33 @@
+Don't change the locations of files.
+
+
+
+training and predicting process are mainly in full_code.py. So to run this model, you only need to run full_code.py If you use command, the command may be "python full_code.py"
+
+all the dependency needed to run the code are saved in dependency.py
+
+myNewData.csv is the data originally labelled manually . (uesd for RNN model)
+
+labeled dataset.xlsx is the data originally labelled manually . (uesd for traditional machine learning models)
+
+predict.csv is the data used for the  prediction purposes only (no ground  truth /labels)
+
+net.pkl: saved model after training
+
+feature.pkl :saved after the after TfidfVectorizer is created using the training dataset 
+
+saved_weights.pt: saved weights of model after training, now temporarily deprecated
+
+classifier.py :  contains the RNN architecture 
+
+TrainAndEval.py : contains training and  evaluation functions for RNN
+
+preprocessing.py :  contains the necessary preprocessing  applied for the dataset
+
+gridSearch.py : contains the hyper tunning , model evaluatetion  and running time timer functions 
+
+stop_words_english (1).txt :  list of the stop words in english used during preprocessing phase
+
+.vector_cache folder: "unsupervised learning algorithm for obtaining vector representations for words"
+
+ 
