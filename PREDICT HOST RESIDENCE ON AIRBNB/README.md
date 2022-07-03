@@ -1,4 +1,4 @@
-# PREDICT HOST RESIDENCE ON AIRBNB 
+# Predict host residence on Airbnb  
 ## Problem Overview and objective
 USA’s Capital Gains Tax laws state that property owners who occupy their property are allowed a tax exemption, Some owners misrepresent their property in order to abuse the exemption law.
 The project aims to:
