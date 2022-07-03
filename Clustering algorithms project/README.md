@@ -10,9 +10,7 @@ The main purpose of this project is apply different clustering methods on the tw
 More details about the dataset can be found at [here](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 
 ## References
-1. For finding the optimal epsilon value graph for DBSCAN Clustering I used this [article](
-
-https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc)and[here](https://medium.com/@tarammullin/dbscan-parameter-estimation-ff8330e3a3bd)
+1. For finding the optimal epsilon value graph for DBSCAN Clustering I used this [article](https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc) and [here](https://medium.com/@tarammullin/dbscan-parameter-estimation-ff8330e3a3bd)
 
 2. I used sklearn library documentation for how to implant some algorithm namely :
 
