@@ -4,7 +4,7 @@ This repository is dedicated for the projects that I had been working on for the
 However there are other project that I had work on but I cannot uploaded since either for privacy reasons, copyright or I am no longer have access to it. 
 You can find  :point_down: list of  these projects that I had working on it .  
 
-##Engineering projects 
+## Engineering projects 
 -	Tree climbing report (graduation group project)
 -	Self-balancing robot
 -	Path detector and follower robot 
